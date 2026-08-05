@@ -1,0 +1,26 @@
+                        TOKEN
+                    (a smallest unit of the programe)
+    token is classified into 5 types
+    1.identifiers - name of variablr,fuction,class
+    2.operators   - 
+    3.literals    - values
+    4.keywords    - predefined words
+    5.punctuators - ;,:({[ ....etc all these
+
+    comments
+             # single line
+              ''' multiline
+                    comments'''
+    statement - line of a code
+                           conditional statements etc
+
+    keywords- 35
+     ['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from',
+      'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+
+                           'assert'         -debugging keyword
+                           'async', 'await' - used for API's while performing asyncronus tasks
+
+                      'except','try','else','finally'- expectional handling keywords
+                           
+                           

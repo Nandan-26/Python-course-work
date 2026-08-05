@@ -1,0 +1,6 @@
+Class 	-blueprint which consists of attributes and methods
+Object 	-instance of the class
+encapsulation -	wrapping and securing the data
+inheritance -	acquiring properties from the parent class to the child class
+polymorphism -	same action, different responses
+abstraction - hides complex tasks; only shows relevant data
